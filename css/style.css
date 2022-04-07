@@ -62,7 +62,7 @@ header nav a:hover {
 }
 
 .sub-descricao {
-    color: rgb(51, 49, 49);
+    color: rgb(48, 47, 47);
 }
 
 .sub-descricao:hover {
@@ -86,9 +86,7 @@ header nav a:hover {
 }
 
 .botao {
-    background-color: rgba(0,0,0,.50);
     border: none;
-    color: white;
     padding: 10px 15px;
     margin-right: 15px;
     font-size: 15px;
@@ -101,6 +99,16 @@ header nav a:hover {
 .botao:hover {
     background-color: white;
     color: black;
+}
+
+#btn-assistir {
+    background-color: rgba(255, 255, 255, 0.884);
+    color: black;
+}
+
+#btn-info {
+    background-color: #696969;
+    color: white;
 }
 
 .botao i {
